@@ -1,5 +1,5 @@
 # Fresh Tomato
-A Python program that generates a simple static webpage that displays a catalog of movies and its trailer when clicked.
+A Python program that generates a simple static web page which displays a catalog of movies and its trailer when clicked.
 
 # Prerequisites
 * Python 2 or above is required to run the program.
@@ -11,5 +11,5 @@ A Python program that generates a simple static webpage that displays a catalog 
 * Open your terminal/command prompt and navigation it to the project folder
 `cd Desktop\Movie-Project // In my case, It's at the desktop`
 * Once you're in the directory, type the following command:
-`python `entertainment_media.py`
+`python entertainment_media.py`
 * Once you've ran it, the webpage will be generated and display on your favourite browser.
